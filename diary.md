@@ -1,5 +1,26 @@
 ## 2019-01-23
 
+**Streak** 2
+
+**Today's Projects** Two more exercism problems. Finally getting my
+command line working the way I want it to.
+
+**Thoughts** I'll probably code more today, but wanted to go ahead and
+write my daily log.
+
+I was getting frustrated with debugging javascript from the command
+line, but I found that node will run javascript files `$ node file.js`
+and the exercism test suite using `npm test` also prints out any
+`console.log()` calls.
+
+I'd like to start on my big projects today. Maybe get the barebones
+Django up and running on my budget app. I already have a lot of the
+backend stuff for that one figured out since I built it before. Now, I
+just need to port it to Django and refresh my memory on the Personal
+Capital API.
+
+## 2019-01-23
+
 **Streak** 1
 
 **Today's projects** Writing about React, setting up command line
