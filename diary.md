@@ -1,4 +1,36 @@
-## 2019-01-23
+## 2019-01-25
+
+**Streak** 3
+
+**Today's Projects** Add Postgres to Heroku for budget app. Write blog
+post about Postgres on Heroku. One Exercism exercise. Read two chapters
+of You Don't Know Javascript.
+
+**Thoughts** I like writing about the things I'm learning. It helps
+solidify what I'm doing. However, it feels slow. I could have written a
+lot more code today if I hadn't been writing about the code I did
+commit.
+
+I'm committing to JavaScript pretty heavily. Seems like if I want to do
+anything web related I need to be ready to write JavaScript, so I want
+to get into the the nitty gritty and feel very comfortable with it. The
+syntax is familiar feeling. I learned it on freeCodeCamp last year, but
+it's also a nice mashup of C and Python -- syntax-wise.
+
+I now know that variables in JavaScript aren't typed. Instead, the data
+inside of a variable has a type. The data in a variable can change if
+that variable is declared using `var` or `let`.
+
+I have a basic understanding of prototypes and prototypal inheritance. I
+also have a basic grasp on closures and scope. Those are two areas I'll
+definitely want to dig into.
+
+Exercism is moving slowly. Perhaps it's a good pace for me though. I can
+focus on my portfolio projects and switch to really drilling interview
+prep once my portfolio projects are done.
+
+
+## 2019-01-24
 
 **Streak** 2
 
