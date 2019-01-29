@@ -1,3 +1,26 @@
+## 2019-01-28
+
+**Streak** 6
+
+**Today's Projects** Exercism refactoring and one solution submission.
+Get sample data for budget app.
+
+**Thoughts** I have coded the past two days, I've just forgotten to
+write a journal
+
+On Saturday, two days ago, I got the personal capital authentication
+working on my Django app. The session persists across redirects as you
+enter your two-factor authentication code.
+
+On Sunday, I defined the database schema in `models.py` while I was at
+Hacker Hours.
+
+At this point the budget app is coming along, but I'm not looking
+forward to making the JSON file play nice with the database. Seems like
+that might be tricky, and I'll need to do some reading on how best to do
+that in Django.
+
+
 ## 2019-01-25
 
 **Streak** 3
