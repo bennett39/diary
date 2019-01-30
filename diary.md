@@ -1,3 +1,20 @@
+## 2019-01-29
+
+**Streak** 7
+
+**Today's Projects** Two more exercism solutions. A little work on
+budget, not much. And a PR to SongPro bc I saw Brian tonight.
+
+**Thoughts** Tonight's Carbon 5 hack night was a much higher caliber
+meetup than the Brooklyn one. This was mostly professional developers
+working on stuff. I'd like to get to know these people better.
+
+One person said they hadn't heard of anyone using Django in a few years.
+I don't want to let that dissuade me, but I think I should try to wrap
+this budget app up quickly. Or, build something different in Django,
+like the stock trading game I made for CS50.
+
+
 ## 2019-01-28
 
 **Streak** 6
