@@ -3,7 +3,7 @@
 **Streak**
 
 **Today's Projects** Budget app up and running with database and Flask
-server.
+server. One exercism problem.
 
 **Thoughts** Realized I was making this harder than it needed to be by
 creating a new Django project. I went back and restored the Flask
