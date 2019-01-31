@@ -1,3 +1,23 @@
+## 2019-01-30
+
+**Streak**
+
+**Today's Projects** Budget app up and running with database and Flask
+server.
+
+**Thoughts** Realized I was making this harder than it needed to be by
+creating a new Django project. I went back and restored the Flask
+version of Budget. It's now running and I'm having success refactoring
+certain parts of it.
+
+Writing tests for Flask is confusing though. I need to do it, so that's
+a next step. I'll also need to figure out how to deploy Flask with WSGI.
+
+I think for my portfolio, I might use the stock trading game I developed
+for CS50. Especially if I can get some nice data viz, design, session
+management. The lessons I learn from this Flask project can help there.
+
+
 ## 2019-01-29
 
 **Streak** 7
@@ -14,6 +34,8 @@ I don't want to let that dissuade me, but I think I should try to wrap
 this budget app up quickly. Or, build something different in Django,
 like the stock trading game I made for CS50.
 
+(See more recent entries, I've accelerated the timeline on the budget
+app.)
 
 ## 2019-01-28
 
