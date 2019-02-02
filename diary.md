@@ -1,3 +1,20 @@
+## 2019-02-02
+
+**Streak** 10
+
+**Today's Projects** Postgres runs locally, now. Upgraded to version 10.
+Heroku test project works locally and on Heroku connecting to the
+database via SQLAlchemy.
+
+**Thoughts** I'll need to refactor my whole application to get it
+working because CS50 had me write the queries straight in SQL via the
+execute() method. Queries get returned as objects and I'll need to
+completely rethink how everything gets iterated and called.
+
+I can build it--but it might be easiest to do it from scratch,
+unfortunately.
+
+
 ## 2019-02-01
 
 **Streak** 9
@@ -13,6 +30,7 @@ frustrated at the moment and done with coding for the day.
 The last thing I did today was build a small proof of concept app. It's
 possible to get a Flask app working with Heroku Postgres. It's just not
 possible the way my stock picker is currently structured.
+
 
 ## 2019-01-30
 
