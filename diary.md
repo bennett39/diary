@@ -1,6 +1,22 @@
+## 2019-02-01
+
+**Streak** 9
+
+**Today's Projects** Trying to deploy my stock picker app to Heroku --
+the app works locally but doesn't play nice with Postgres.
+
+**Thoughts** REALLY frustrating trying to get these legacy projects
+deployed. I think I've given up because it would basically require
+rewriting the whole app. I might do that at some point, I'm just
+frustrated at the moment and done with coding for the day.
+
+The last thing I did today was build a small proof of concept app. It's
+possible to get a Flask app working with Heroku Postgres. It's just not
+possible the way my stock picker is currently structured.
+
 ## 2019-01-30
 
-**Streak**
+**Streak** 8
 
 **Today's Projects** Budget app up and running with database and Flask
 server. One exercism problem.
