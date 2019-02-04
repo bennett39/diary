@@ -1,3 +1,24 @@
+## 2019-02-04
+
+**Streak** 12
+
+**Today's Projects** Flask-Sqlalchemy engine and models created.
+Implemented several queries as part of refactor. Will work on exercism
+later tonight.
+
+**Thoughts** SQLAlchemy models and queries seem easier to integrate and
+manage than the SQL queries I wrote originally. They also work
+seamlessly across local development and remote production environments.
+The challenge is learning a completely new syntax for writing my
+queries that ends up getting translated to SQL commands.
+
+It has been a lot of frustrating trial and error, but I'm starting to
+get the hang of how SQL Alchemy engines, sessions, and QueryObjects
+work. Once I start churning out these queries, implementing the rest of
+the application should be fairly easy. Just need to test it regularly
+along the way.
+
+
 ## 2019-02-02
 
 **Streak** 10
