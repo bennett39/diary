@@ -1,3 +1,24 @@
+## 2019-02-06
+
+**Streak** 14
+
+**Today's Projects** Stock Trader - only a few TODOs left to implement.
+
+**Thoughts** I've got Stock Trader working locally and deployed to
+Heroku. Left to implement/port over from the old version are buy, sell,
+profile, and nuke. Sessions and portfolio are all implemented.
+
+I had to restart postgres when I restarted my VM. For future reference,
+here is the command:
+
+```bash
+sudo /etc/init.d/postgresql restart
+```
+
+Forgot to do my log yesterday, but that was the big coding day. Today
+I've been mostly writing. Only a little bit of code.
+
+
 ## 2019-02-04
 
 **Streak** 12
