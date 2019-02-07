@@ -1,3 +1,22 @@
+## 2019-02-07
+
+**Streak** 15
+
+**Today's Projects** Stocktrader is fully implemented and live on
+Heroku.
+
+**Thoughts** It works! I'm excited about it. Now, I need to beef it up,
+and add more functionality.
+
+Ideas to take this to the next level:
+- Lookup stocks by company name
+- Graph of portfolio performance
+
+The newly refactored code is much nicer than the old application.
+Everything is separated out and I've cleaned up a lot of inefficiencies
+and poorly named variables.
+
+
 ## 2019-02-06
 
 **Streak** 14
