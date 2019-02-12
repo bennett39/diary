@@ -1,3 +1,27 @@
+## 2019-02-11
+
+**Streak** 19
+
+**Today's Projects** Exercism - two JavaScript problems
+
+**Thoughts** Been a few days since I wrote a journal entry. That's b/c
+I've been kind of stuck in a rut on Stock Trader. I've also just been
+busy with shabbat, debate judging, and personal/social life. It's no
+excuse though! A journal entry literally takes 2 mins.
+
+I have an autocomplete field that helps users find stocks now in Stock
+Trader. It loads kind of slow though, because the data set of potential
+stocks is so huge. Idk what to do about that.
+
+I've also started trying to write tests for the application. It's
+annoying though because all the documentation assumes I've set up my
+application a certain way. I gotta dig into that more, but I've pulled
+back for today at least to focus on other stuff.
+
+Exercism was fun today and I learned some new JavaScript stuff. I always
+learn a lot from looking at the community solutions.
+
+
 ## 2019-02-07
 
 **Streak** 15
