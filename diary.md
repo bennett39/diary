@@ -1,3 +1,19 @@
+## 2019-02-12
+
+**Streak** 20
+
+**Today's Projects** Developed a barebones NodeJS server and router.
+Luhn exercism problem in Python.
+
+**Thoughts** I want to really drill down on NodeJS. I'll use my
+portfolio site to do it.
+
+I also want to low-key start working on interview prep problems. The
+exercism problems are a good start, but I think HackerRank or LeetCode
+are in the cards pretty soon to work on data structures and common
+interview problems.
+
+
 ## 2019-02-11
 
 **Streak** 19
