@@ -1,3 +1,18 @@
+## 2019-02-15
+
+**Streak** 23
+
+**Today's Projects** Leetcode problems. Previous: Express server.
+
+**Thoughts** It doesn't feel like 3 days since I wrote a journal entry,
+but I guess I have been slacking. I've been working on learning Node and
+how it works. I'm also gonna start developing my personal website soon.
+
+I've also started interview prep problems. I figure starting very early
+gives me the best chance to learn and retain all the info I need to be
+impressive in the interviews later this year.
+
+
 ## 2019-02-12
 
 **Streak** 20
