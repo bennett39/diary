@@ -1,3 +1,17 @@
+## 2019-02-17
+
+**Streak** 25
+
+**Today's Projects** More Leetcode. Worked on favicon for portfolio, but
+no success, so no commits.
+
+**Thoughts** I'm frustrated at the moment because this favicon issue is
+nonsensical.
+
+But the leetcode problems are going okay. I'm taking notes on each
+one. Once I solve 10, I'll go back and revisit.
+
+
 ## 2019-02-15
 
 **Streak** 23
