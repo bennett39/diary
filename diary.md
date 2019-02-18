@@ -1,3 +1,17 @@
+## 2019-02-18
+
+**Streak** 26
+
+**Today's Projects** I got SongPro working locally
+
+**Thoughts** Feels good to follow through on my promise to send a PR for
+new songs. It's also nice to help out with other code issues and see a
+completely different framework--Ruby/Middleman--for a web app
+
+I haven't done any interview prep today, but I intend to do some this
+evening.
+
+
 ## 2019-02-17
 
 **Streak** 25
