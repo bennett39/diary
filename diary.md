@@ -1,3 +1,20 @@
+## 2019-02-19
+
+**Streak** 27
+
+**Today's Projects** More Leetcode solutions, updates to Stock Trader
+
+**Thoughts** I like my streak of commits that I have going on GitHub,
+but when I solve problems on Leetcode they don't count toward it!
+
+Good thing my daily journal counts toward the daily commits so as long
+as I write here then I'll have my streak alive.
+
+It's probably a good goal to work on something practical each day in
+addition to Leetcode. Some days though, I only have a few hours to spare
+and coding interview prep is my focus right now.
+
+
 ## 2019-02-18
 
 **Streak** 26
