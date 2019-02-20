@@ -1,3 +1,15 @@
+## 2019-02-20
+
+**Streak** 28
+
+**Today's Projects** Portfolio site
+
+**Thoughts** Good progress on portfolio site. Did a nice, simple flexbox
+trick and I've got fonts, icons, and styles working nicely.
+
+Didn't get to Leetcode today before choir, and I know that's bad.
+Building real stuff is just more fun than interview problems!
+
 ## 2019-02-19
 
 **Streak** 27
