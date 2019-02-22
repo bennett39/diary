@@ -1,3 +1,15 @@
+## 2019-02-21
+
+**Streak** 29
+
+**Today's Projects** Leetcode, portfolio
+
+**Thoughts** 5 Leetcode problems done today. Feeling more confident
+about those types of challenges.
+
+Also made great progress on my portfolio site. It's essentially complete
+at the moment. Might add more later, but happy with it.
+
 ## 2019-02-20
 
 **Streak** 28
