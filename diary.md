@@ -1,3 +1,16 @@
+## 2019-02-23
+
+**Streak** 31
+
+**Today's Projects** Testing stock trader. Lots of videos on Python
+topics.
+
+**Thoughts** Flask's testing framework is not making much sense to me at
+the moment, but I think I have it working. I'll need to create
+some client-side tests shortly, so that could be a challenge.
+
+Aiming for high code coverage with this suite of tests.
+
 ## 2019-02-21
 
 **Streak** 29
