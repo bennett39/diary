@@ -1,3 +1,48 @@
+## 2019-03-01
+
+**Today's Projects** More Leetcode, Django REST learning
+
+**Thoughts** I'm dropping the Streak section from my log entries. I've
+been coding daily for over a hundred days now, and GitHub is a much
+better place to see that than here. Plus I don't want to have to do the
+math if I missed journal entries for a few days like now.
+
+I'm working on a new budget project using the Django REST API. We'll see how it
+goes. The Plaid authentication is a little confusing, since I've never
+done anything like this with a token-authenticated API on quite this
+level.
+
+I've got Zach signed up to help me with the project. I might enlist a
+few other devs as well and see if we can't build something interesting
+as a team. A lot to learn, though, because I don't know about the Django
+REST Framework, Plaid API, or how I'm going to develop the front end.
+
+
+## 2019-02-24
+
+**Streak** 32
+
+**Today's Projects** Leetcode review, write tests for ST, Travis CI/CD
+for ST
+
+**Thoughts** Really pleased with today's progress. My tests are working
+and I can generate coverage reports for my code. Coverage isn't very
+high yet, but I'll keep writing tests over the next few weeks.
+
+Travis was fairly easy to set up and I've now linked Heroku to GitHub,
+so when a new push to the master branch passes all the Travis tests,
+it'll automatically get deployed. Really cool stuff I was able to set
+up.
+
+I tried to get Docker installed, but from my research it seems that
+Docker doesn't work on chromebooks. At least unless I start another
+partition that runs GalliumOS which virtualizes the Linux kernel instead
+of borrowing the one from ChromeOS. (That's my understanding at least)
+
+I did get the experience of writing the Dockerfile and docker-compose,
+so that was good and seems fairly straightforward for most applications
+if you're using standard images to build around.
+
 ## 2019-02-23
 
 **Streak** 31
