@@ -1,3 +1,15 @@
+## 2019-03-02
+
+**Today's Projects** Writing tests for Stock Trader
+
+**Thoughts** Finally wrapping my head around how tests are done in
+Flask. Had some trouble wrangling sessions, but finally got it working.
+Looking forward to getting the app to 100% coverage.
+
+Good news is Django tests are pretty similar and the testing suite is
+all built in instead of the mixture of Flask and Flask-testing that I'm
+using at the moment.
+
 ## 2019-03-01
 
 **Today's Projects** More Leetcode, Django REST learning
